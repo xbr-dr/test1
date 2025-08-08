@@ -5,7 +5,6 @@ sentence-transformers
 faiss-cpu
 folium
 streamlit-folium
-langdetect
 groq
 numpy
 openpyxl
