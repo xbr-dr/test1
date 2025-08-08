@@ -1,11 +1,11 @@
 streamlit
 pandas
-pypdf
-faiss-cpu
+PyPDF2
 sentence-transformers
+faiss-cpu
 folium
 streamlit-folium
 langdetect
-numpy
 groq
+numpy
 openpyxl
