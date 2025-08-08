@@ -12,7 +12,7 @@ import hashlib
 
 # Set page config
 st.set_page_config(
-    page_title="Campus Assistant AI",
+    page_title="test1",
     page_icon="🏫",
     layout="wide",
     initial_sidebar_state="collapsed"
