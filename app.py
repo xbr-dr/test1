@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import PyPDF2
+import pypdf
 from io import BytesIO
 import faiss
 from sentence_transformers import SentenceTransformer
