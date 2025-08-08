@@ -1,10 +1,34 @@
-streamlit
-pandas
-PyPDF2
-sentence-transformers
-faiss-cpu
-folium
-streamlit-folium
-groq
-numpy
-openpyxl
+# Core Streamlit and Data Processing
+streamlit>=1.28.0
+pandas>=1.5.0
+numpy>=1.24.0
+
+# PDF Processing
+PyPDF2>=3.0.0
+
+# AI and Machine Learning
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.4
+
+# Maps and Visualization
+folium>=0.14.0
+streamlit-folium>=0.15.0
+
+# AI Chat API
+groq>=0.4.0
+
+# Text Processing and NLP
+langdetect>=1.0.9
+
+# Excel File Support
+openpyxl>=3.1.0
+xlrd>=2.0.1
+
+# Additional utilities (optional but recommended)
+python-dateutil>=2.8.2
+requests>=2.31.0
+
+# Development and Testing (optional)
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
